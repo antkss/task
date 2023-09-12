@@ -1,4 +1,4 @@
-#REPORT
+#REPORT-
 I Dữ liệu từ việc gán
 -Khi khai báo 1 biến với không giá trị ban đầu, biến đó đang sở hữu 1 giá trị rác. 
 -khi biến khai báo được khởi tạo 1 giá trị, giá trị rác sẽ không còn và để hiển thị biến giá trị của biến a ra màn hình ta phải có các đặc tả của biến đó đi kèm.

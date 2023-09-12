@@ -18,6 +18,8 @@ II Dữ liệu từ người dùng
 + c là đặc tả kiểu dữ liệu của a
 + & toán tử địa chỉ có nhiệm vụ nhận ra địa chỉ của a
 - Với nhiều biến: scanf(“d e f”, &a, &b, &c ) với d,e,f lần lượt là đặc tả của biến a, b, c. 
-- Sau đặc tả cuối cùng ví dụ scanf(“d e f”, &a, &b, &c ) là f thì sẽ ko có dấu cách, vì nó dẫn tới vòng lặp liên tục khi nhập. 
-
-
+- Sau đặc tả cuối cùng ví dụ scanf(“d e f”, &a, &b, &c ) là f thì sẽ ko có dấu cách, vì nó dẫn tới vòng lặp liên tục khi nhập.
+  III Gets
+  - cách dùng gets(a) với a là biến có kiểu dữ liệu kí tự dùng để lấy 1 chuỗi kí tự từ bàn phím mà không chấp nhận chuỗi null.
+  IIII puts
+- cách dùng puts(a) với a là biến có kiểu dữ liệu là kí tự dùng để xuất chuỗi kí tự ra màn hình trừ chuỗi null
